@@ -10,7 +10,7 @@ React and Javascript(built with Create-React-App).
 Local Installation
 Dependencies
 node.js
-npm install
+yarn install
 
 Start the local development server by running
 * yarn start
